@@ -18,3 +18,12 @@ A Python system I built to run my small business selling quality bags and bottle
 ```bash
 pip install pandas
 python PackPal_Business_Manager.py
+
+## 📍 Location
+**Mahikeng, North West, South Africa** - Delivering around town & campus
+
+## 👩‍💼 Built By
+**Tshepiso Motaung** - PackPal Founder
+
+> From idea to GitHub - Running PackPal like a CEO in Mahikeng!
+
