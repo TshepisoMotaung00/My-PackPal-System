@@ -11,8 +11,8 @@ A Python system I built to run my small business selling quality bags and bottle
 - **Sales & Profit Report:** Total sales, profit per item, credit tracking with month-end due dates
 
 ## 💰 My Pricing
-- Lunch Bag: R160 (Cost R60) → Profit R100
-- Flask Bottle: R100 (Cost R36) → Profit R64
+- Lunch Bag: R160 
+- Flask Bottle: R100
 
 ## 📍 Location
 **Mahikeng, North West, South Africa** - Delivering around town & campus
