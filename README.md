@@ -14,11 +14,6 @@ A Python system I built to run my small business selling quality bags and bottle
 - Lunch Bag: R160 (Cost R60) → Profit R100
 - Flask Bottle: R100 (Cost R36) → Profit R64
 
-## 🚀 How To Run
-```bash
-pip install pandas
-python PackPal_Business_Manager.py
-
 ## 📍 Location
 **Mahikeng, North West, South Africa** - Delivering around town & campus
 
@@ -26,4 +21,11 @@ python PackPal_Business_Manager.py
 **Tshepiso Motaung** - PackPal Founder
 
 > From idea to GitHub - Running PackPal like a CEO in Mahikeng!
+
+
+
+## 🚀 How To Run
+```bash
+pip install pandas
+python PackPal_Business_Manager.py
 
