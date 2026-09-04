@@ -14,15 +14,16 @@ A Python system I built to run my small business selling quality bags and bottle
 - Lunch Bag: R160 
 - Flask Bottle: R100
 
-## 📍 Location
-**Mahikeng, North West, South Africa** - Delivering around town & campus
+## 📍 Location & Customers
+**Based in Mahikeng, North West, South Africa**
+- Delivering around Mahikeng town & campus
+- Customers from: Lichtenburg, Blydeville, Bodibe, Coligny
+- Main customers: Co-workers & workers at firms — trusted for quality lunch bags & flasks
 
 ## 👩‍💼 Built By
 **Tshepiso Motaung** - PackPal Founder
 
-> From idea to GitHub - Running PackPal like a CEO in Mahikeng!
-
-
+> From selling to co-workers to GitHub - Running PackPal like a CEO in North West!
 
 ## 🚀 How To Run
 ```bash
